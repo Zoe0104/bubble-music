@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5c13ccbf-8104-49f0-9de4-3a7d0d3fec2e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 240,
+  "platformSettings": {},
+  "subMetas": {
+    "玩法说明": {
+      "ver": "1.0.4",
+      "uuid": "3cb822d3-f365-4135-a010-336ed04b6c1b",
+      "rawTextureUuid": "5c13ccbf-8104-49f0-9de4-3a7d0d3fec2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6,
+      "offsetY": 1,
+      "trimX": 24,
+      "trimY": 1,
+      "width": 464,
+      "height": 236,
+      "rawWidth": 500,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

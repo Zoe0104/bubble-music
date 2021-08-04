@@ -1,0 +1,10 @@
+info face="face" size=131
+common lineHeight=131 scaleW=415 scaleH=264 pages=1
+page id=0 file="颜色文字.png"
+chars count=6
+char id=27225 x=0 y=0 width=137 height=131 xoffset=0 yoffset=0 xadvance=137 page=0 chnl=15
+char id=32043 x=139 y=0 width=137 height=131 xoffset=0 yoffset=0 xadvance=137 page=0 chnl=15
+char id=32418 x=0 y=133 width=137 height=131 xoffset=0 yoffset=0 xadvance=137 page=0 chnl=15
+char id=32511 x=139 y=133 width=137 height=131 xoffset=0 yoffset=0 xadvance=137 page=0 chnl=15
+char id=33394 x=278 y=0 width=137 height=131 xoffset=0 yoffset=0 xadvance=137 page=0 chnl=15
+char id=34013 x=278 y=133 width=137 height=131 xoffset=0 yoffset=0 xadvance=137 page=0 chnl=15
